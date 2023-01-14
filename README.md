@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C4E5&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Meu+nome+é+Gabriel+Batista;Tenho+21+anos+de+idade;Sou+formado+em+Análise+e+Desenvolvimento+de+Sistemas;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/vinicr28">
+  <a href="https://github.com/batista7557">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=batista7557&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista7557&layout=compact&langs_count=7&theme=radical"/>
 </div>
